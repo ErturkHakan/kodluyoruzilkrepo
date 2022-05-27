@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ![Image](https://i.imgur.com/bZZT7ex.png)
