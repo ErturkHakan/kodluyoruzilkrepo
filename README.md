@@ -1,9 +1,9 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![ILK Repo] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![ILK Repo] (https://imgur.com/a/U0yGY17)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-''' git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git '''
+''' git clone https://github.com/ErturkHakan/kodluyoruzilkrepo.git '''
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
