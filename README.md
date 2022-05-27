@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ```
  print("git clone https://github.com/ErturkHakan/kodluyoruzilkrepo.git") 
 ```
-
+# Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
