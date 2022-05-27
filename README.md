@@ -5,9 +5,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-''' javascript
-git clone https://github.com/ErturkHakan/kodluyoruzilkrepo.git '''
-# Usage
+''' print("git clone https://github.com/ErturkHakan/kodluyoruzilkrepo.git")
+"
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 ''' cd kodluyoruzilkrepo
