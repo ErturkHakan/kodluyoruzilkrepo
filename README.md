@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![Image](https://imgur.com/a/U0yGY17.png)
+![Image](https://imgur.com/a/U0yGY17)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
